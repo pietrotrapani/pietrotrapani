@@ -4,7 +4,7 @@
 Mi piace affrontare nuove sfide tecnologiche e costruire sistemi solidi, scalabili e ben progettati.  
 
 Attualmente **guido lo sviluppo tecnico** di una Business Unit della mia azienda, coordinando il team promuovendo collaborazione e condivisione.  
-Nel tempo libero porto avanti anche **progetti personali**, tra cui [**Alessandria**](#) — un’idea su cui sto lavorando con passione.  
+Nel tempo libero porto avanti anche **progetti personali**, tra cui [**Alessandria**](https://pietrotrapani.github.io/alessandria-doc-landing/landpage) — un’idea su cui sto lavorando con passione.  
 
 ---
 
